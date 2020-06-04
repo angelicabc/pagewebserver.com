@@ -1,0 +1,119 @@
+#btn1 {
+    background-color: #38535f;
+  }
+#btn2 {
+    background-color: rgb(40, 202, 62);
+  }
+#fondoparte1 {
+  background-color: rgb(40, 202, 62);
+}
+#fondoparte2 {
+  background-color: rgb(94, 57, 57);
+}
+#white {
+  background-color: rgb(255, 255, 255);
+}
+#footer1 {
+  background-color: #53b5df; 
+}
+#footer2 {
+  background-color: #108fc5;
+}
+#cuadro {
+  background-color: #e4e3e3;
+}
+body{
+    background-color: #53c2e4;
+    font-family: "Open Sans";
+    justify-content: center;
+    margin: 0;
+    padding: 0;   
+}
+.button-one {
+    border-radius: 9px;
+    border: 0;
+    color: white;
+    font-size: 15px;
+    height: 50px;
+    margin-right: 0.5rem;
+    width: 210px;
+  }
+  .button-two {
+    border-radius: 9px;
+    color: white;
+    font-size: 15px;
+    height: 50px;
+    margin-right: 4rem;
+    width: 130px;
+  }
+
+.main-nanvar {
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    justify-content: space-around;
+    margin: auto;
+    max-width: 1415px;
+    min-width: 701px;}
+    .main-nanvar__head-one {
+      align-content: center;
+      color: #ffffff;
+      flex-grow: 1;
+      font-size: 18px;
+      padding-left: 2rem;}
+    .main-nanvar__head-two {
+      align-items: center;
+      display: flex;
+      flex-grow: 1;
+      flex-wrap: wrap;
+      justify-content: flex-end;}
+
+.cont-blue{ margin: auto;}
+  .cont-blue__part-one {
+    align-content: center;
+    display: flex;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+    max-width: 1415px;
+    min-width: 700px;}
+    .cont-blue__part-one__one {
+      align-content: center;
+      display: flex;
+      flex-grow: 1;
+      flex-wrap: wrap;
+      height: auto;
+      justify-content: space-around;
+      text-align: center;
+      width: 500px;}
+    .cont-blue__part-one__two {
+      color: rgb(8, 71, 71);
+      font-size: 23px;
+      height: auto;
+      padding: 10px 10px;
+      text-align: left;
+      width: auto;}
+      p {font-size: 26px; }
+        .cont-blue {
+          margin: auto;
+        }
+        .cont-blue .cont-blue__part-one .cont-blue__part-one__one {
+          align-content: center;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+        }
+        .cont-blue .cont-blue__part-one .cont-blue__part-one__one h1 {
+          color: rgb(69, 2, 90);
+          margin-top: 10px;
+        }
+        .cont-blue-two .cont-blue-two__part-one {
+          color: #26f3d8;
+          display: flex;
+          justify-content: center;
+          text-align: center;
+          margin: auto;
+          max-width: 1415px;
+          min-width: 578px;
+        }
